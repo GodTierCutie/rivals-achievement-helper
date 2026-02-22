@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Bun
+.bun/
+
+# TypeScript build output
+dist/
+*.js.map
+
+# Private Files
+config.json
+completed_achievements.json
+
+# Environment files
+.env
+.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

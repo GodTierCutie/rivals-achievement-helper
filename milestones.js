@@ -1,0 +1,20 @@
+export const HEROIC_MILESTONES = [
+  { points: 40, rewards: [{ type: "units", amount: 100 }] },
+  { points: 80, rewards: [{ type: "units", amount: 100 }] },
+  { points: 120, rewards: [{ type: "units", amount: 100 }] },
+  { points: 160, rewards: [{ type: "units", amount: 100 }] },
+  { points: 200, rewards: [{ type: "costume", name: "Ivory Breeze (Storm)" }] },
+  { points: 240, rewards: [{ type: "units", amount: 100 }] },
+  { points: 280, rewards: [{ type: "units", amount: 100 }] },
+  { points: 320, rewards: [{ type: "units", amount: 100 }] },
+  { points: 360, rewards: [{ type: "units", amount: 200 }] },
+  { points: 400, rewards: [{ type: "costume", name: "Jovial Star (Star-Lord)" }] },
+  { points: 440, rewards: [{ type: "units", amount: 200 }] },
+  { points: 480, rewards: [{ type: "title", name: "Heroic Ally" }] },
+  { points: 510, rewards: [{ type: "units", amount: 200 }] },
+  { points: 540, rewards: [{ type: "units", amount: 200 }] },
+  { points: 580, rewards: [{ type: "title", name: "Daring Dramatist" }] },
+  { points: 620, rewards: [{ type: "units", amount: 200 }] },
+  { points: 660, rewards: [{ type: "unstable_molecules", amount: 200 }] },
+  { points: 700, rewards: [{ type: "chrono_tokens", amount: 200 }] }
+];
