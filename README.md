@@ -23,6 +23,31 @@ Choosing which hero to grind next can be frustrating, especially when you're try
 
 This tool gives you a clear direction based on your current progress — no overthinking required.
 
+## 🎞️ Demo
+
+<p align="center">
+  <img src="assets/spin-demo.gif" width="750">
+</p>
+
+## Preview
+
+### 💫 Spinner Output
+
+<p align="center">
+  <img src="assets/spin-demo-x.png" width="350">
+  <img src="assets/spin-demo-y.png" width="350">
+</p>
+
+<p align="center">
+  <img src="assets/spin-demo-z.png" width="700">
+</p>
+
+### ⚙️ Settings Menu
+
+<p align="center">
+  <img src="assets/menu-demo.png" width="600">
+</p>
+
 ## 🧩 Requirements
 
 * [Bun](https://bun.sh/)
@@ -149,7 +174,7 @@ This project was built with the help of **ChatGPT**, assisting with structuring 
 
 It started as a personal tool and gradually evolved into something worth sharing.
 
-**Made with 🎯 focus by Mnae & ChatGPT**
+**Made with 🎯 focus by [Mnae](https://github.com/GodTierCutie) & ChatGPT**
 
 ## Credits
 
