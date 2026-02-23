@@ -34,13 +34,11 @@ This tool gives you a clear direction based on your current progress — no over
 ### 💫 Spinner Output
 
 <p align="center">
-  <img src="assets/spin-demo-x.png" width="350">
-  <img src="assets/spin-demo-y.png" width="350">
+  <img src="assets/spin-demo-x.png" width="333">
+  <img src="assets/spin-demo-y.png" width="333">
+  <img src="assets/spin-demo-z.png" width="333">
 </p>
 
-<p align="center">
-  <img src="assets/spin-demo-z.png" width="700">
-</p>
 
 ### ⚙️ Settings Menu
 
