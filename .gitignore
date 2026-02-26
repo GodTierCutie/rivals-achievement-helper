@@ -10,7 +10,7 @@ dist/
 
 # Private Files
 config.json
-completed_achievements.json
+completed_achievements*.json
 
 # Environment files
 .env

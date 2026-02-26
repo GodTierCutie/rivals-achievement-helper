@@ -172,7 +172,7 @@ This project was built with the help of **ChatGPT**, assisting with structuring 
 
 It started as a personal tool and gradually evolved into something worth sharing.
 
-**Made with 🎯 focus by [Mnae](https://github.com/GodTierCutie) & ChatGPT**
+**Made with love by [Mnae](https://github.com/GodTierCutie) & ChatGPT**
 
 ## Credits
 
