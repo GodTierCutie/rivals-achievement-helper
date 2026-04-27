@@ -46,5 +46,7 @@ export const HERO_MESSAGES = {
   "Gambit": "You keep your eyes on the foes… I'll keep mine on the prize!",
   "Rogue": "I'm done tryin' to fight who I am. I'd rather fight the folks who hate an' fear me for it.",
   "Deadpool": "You're farming achievements. I'm farming screen time.",
-  "Elsa Bloodstone": "Reality is collapsing, and you lot are fighting each other? Are you daft?"
+  "Elsa Bloodstone": "Reality is collapsing, and you lot are fighting each other? Are you daft?",
+  "White Fox":"I'm the last of my people. And I plan to make them proud.",
+  "Black Cat":"I'm not a hero. I'm a thief. Born a thief. Raised a thief. Will die a thief."
 };
