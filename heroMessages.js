@@ -48,5 +48,7 @@ export const HERO_MESSAGES = {
   "Deadpool": "You're farming achievements. I'm farming screen time.",
   "Elsa Bloodstone": "Reality is collapsing, and you lot are fighting each other? Are you daft?",
   "White Fox":"I'm the last of my people. And I plan to make them proud.",
-  "Black Cat":"I'm not a hero. I'm a thief. Born a thief. Raised a thief. Will die a thief."
+  "Black Cat":"I'm not a hero. I'm a thief. Born a thief. Raised a thief. Will die a thief.",
+  "Devil Dinosaur":"REEEEEORRRAAAHH!!",
+  "Cyclops":"I am what the norms fear most."
 };
